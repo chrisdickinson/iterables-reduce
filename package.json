@@ -1,5 +1,5 @@
 {
-  "name": "@iterables/iterable-reduce",
+  "name": "@iterables/reduce",
   "version": "1.0.1",
   "description": "a reduce function for iterables",
   "main": "iterables-reduce.js",
